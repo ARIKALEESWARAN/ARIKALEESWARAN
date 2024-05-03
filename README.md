@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋, I'm ARIKALEESWARAN</h1>
-<h3 align="center">A passionate fullstack development from India</h3>
+## Hi there 👋 It's me Arikaleeswaran
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arikaleeswaran&label=Profile%20views&color=0e75b6&style=flat" alt="arikaleeswaran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arikaleeswaran" alt="arikaleeswaran" /></a> </p>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                 
+- 🌱 I’m currently learning DSA
+- 🌱 I'm currently learning Full Stack Development
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arikaleeswaran/)
+- 😄 Pronouns: Techie
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-- 🌱 I’m currently learning **REACT JS**
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arikaleeswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arikaleeswaran" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arikaleeswaran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arikaleeswaran" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arikaleeswaran&show_icons=true&locale=en&layout=compact" alt="arikaleeswaran" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arikaleeswaran&show_icons=true&locale=en" alt="arikaleeswaran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arikaleeswaran&" alt="arikaleeswaran" /></p>
+![Arikaleeswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=arikaleeswaran&theme=dark&show_icons=true&&hide=issues,contribs)
+(![LeetCode Stats](https://leetcard.jacoblin.cool/arikaleeswaran?theme=dark&font=Andada%20Pro&ext=heatmap))
+[![Arikaleeswaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arikaleeswaran&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
