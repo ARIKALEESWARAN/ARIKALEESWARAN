@@ -1,8 +1,14 @@
 ## Hi there 👋 It's me Arikaleeswaran
 
-Aspiring SDE
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                              
-- 🌱 I’m currently learning DSA
+                                            
+Welcome to my GitHub playground! 👋 I'm Arikaleeswaran, a passionate Software Development Engineer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
+
+## Quick Overview
+
+- 🔭 I work as a Software Developer.
+- 👯 I’m looking to collaborate on open source projects or interesting ideas.
+- 💬 Ask me about anything! I'm happy to help.
+
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arikaleeswaran/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](g.arikaleeswaran7@gmail.com)
