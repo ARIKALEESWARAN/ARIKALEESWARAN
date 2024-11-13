@@ -8,8 +8,8 @@ Welcome to my GitHub playground! 👋 I'm Arikaleeswaran, a passionate Software 
 - 🔭 I work as a Software Developer.
 - 👯 I’m looking to collaborate on open source projects or interesting ideas.
 - 💬 Ask me about anything! I'm happy to help.
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arikaleeswaran/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](g.arikaleeswaran7@gmail.com)
+[<img height = "20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arikaleeswaran/)
+[<img  height = "20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](g.arikaleeswaran7@gmail.com)
 
   
 ## Technologies and Tools
