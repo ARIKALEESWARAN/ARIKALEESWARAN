@@ -19,7 +19,6 @@ Welcome to my GitHub playground! 👋 I'm Arikaleeswaran, a passionate Software 
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
-
 ## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/arikaleeswaran?theme=dark&font=Andada%20Pro&ext=heatmap)
