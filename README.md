@@ -1,4 +1,7 @@
-## ARIKALEESWARAN's GitHub Profile 🚀
+<div align="center">
+  <h2>YO !! 🖖 ARI CHECKING IN</h2>
+</div>
+
 
                                             
 Welcome to my GitHub playground! 👋 I'm Arikaleeswaran, a passionate Software Development Engineer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
