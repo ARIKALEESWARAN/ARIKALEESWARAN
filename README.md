@@ -8,7 +8,7 @@ Welcome to my GitHub playground! 👋 I'm Arikaleeswaran, a passionate Software 
 
 ## 🚀Quick Overview
 
-- 🔭 I work as a Software Developer.
+- 🔭 Aspiring Software Developer
 - 👯 I’m looking to collaborate on open source projects or interesting ideas.
 - 💬 Ask me about anything! I'm happy to help.
 [<img height = "20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arikaleeswaran/)
